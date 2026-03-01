@@ -30,22 +30,6 @@ Frontend:
 - JavaScript (Fetch API)
 ---
 
-## 📂 Project Structure
-SpringProject
-│
-├── src/main/java/com/first/SpringProject
-│ ├── controller
-│ ├── service
-│ ├── repository
-│ ├── model
-│ └── SpringProjectApplication.java
-│
-├── src/main/resources
-│ ├── static (HTML, JS, CSS)
-│ └── application.properties
-│
-└── pom.xml
----
 ## ⚙️ How This Application Works
 
 1. The frontend (HTML + JS) sends HTTP requests using Fetch API.
